@@ -41,7 +41,7 @@ Menilai kualitas pelayanan berdasarkan beberapa aspek.
 
 ---
 
-## ▶ Cara Menjalankan
+## Cara Menjalankan
 
 Install library:
 ```bash
